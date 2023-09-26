@@ -1,0 +1,12 @@
+### Mac os files system
+DS_Store
+
+### Windows files system
+
+## git
+
+##phpstorm files
+.idea
+
+## conception
+conception/
