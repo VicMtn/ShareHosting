@@ -1,0 +1,19 @@
+## TODO : 
+- [ ] Choisir la distribution
+- [ ] Choisir le poste d'installation
+- [ ] Installer la distribution
+- [ ] Installer les services
+  - [ ] SSH
+  - [ ] Nginx
+  - [ ] PHP-FPM
+  - [ ] MariaDB
+- [ ] Configurer les services
+- [ ] Créer les utilisateurs
+- [ ] Créer les bases de données
+- [ ] Créer les sites web
+- [ ] Créer les fichiers de configuration
+- [ ] Créer les scripts de création d'utilisateurs
+- [ ] Tester les scripts
+- [ ] Tester les sites web
+- [ ] Tester les bases de données
+- [ ] Ecrire le rapport
