@@ -1,0 +1,1 @@
+toujours faire su - ce qui permet d'avoir les bon $PATH de sudo et non juste ces droits
