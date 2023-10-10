@@ -1,10 +1,31 @@
 ## TODO : 
-- [ ] Choisir la distribution
+- [x] Choisir la distribution
+   - Version : Debian 12.1.0
+   - Nom : sharehosting
+   - Nom de domaine : cpnv
+   - Root password : root
+   - Name of the user : noah
+   - Username : noah
+   - User password : cpnv
+   - Partion guidée pour l'entier du disque
+   - Tous les fichiers dans une seul partition
+   - Mirror country : Suisse
+   - Archive mirror : deb.debian.org
+   - HTTP proxy : none
+   - 
 - [ ] Choisir le poste d'installation
 - [ ] Installer la distribution
 - [ ] Installer les services
   - [ ] SSH
   - [ ] Nginx
+        - [ ] su apt-get update
+        - [ ] su apt-get upgrade
+        - [ ] su apt install php
+              - [ ] check the version with : php -v --> version 8.2.7 installed
+        - [] su apt install php-fpm php-mysql -y
+              - [] check the installed modeul with : systemctl status php8.2-fpm
+              - 
+     lien vers l'install : https://itslinuxfoss.com/install-nginx-debian-12-linux/
   - [ ] PHP-FPM
   - [ ] MariaDB
 - [ ] Configurer les services
