@@ -55,16 +55,16 @@
 ## Installation Nginx
  ```
 su -
-apt-get update
-apt-get upgrade
+apt update
+apt upgrade
 apt install ngnix
 
  ```
  ## Installation PHP
   ```
 su -
-apt-get update
-apt-get upgrade
+apt update
+apt upgrade
 apt install php
 
  ```
